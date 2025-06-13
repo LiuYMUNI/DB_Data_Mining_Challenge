@@ -2,9 +2,19 @@
 
 [Project Webpage](https://liuyumaosid.wixsite.com/resume-of-yumao-liu/dbmachinelearning)
 
-## Overview
+<div align="center">
+  <img src="assets/DB.png" width="900"/>
+  <p><em></em></p>
+</div>
 
-This repository contains code and tools for the Deutsche Bahn Data Mining Challenge (Oct 2021 – Jan 2022), focusing on systemic delay analysis, predictive modeling, and actionable insights for large-scale railway operations.
+
+## 🧪 Industrial Background
+
+This work was conducted for the **Deutsche Bahn Data Mining Challenge** (Dec 2021 – Feb 2022) in cooperation with **DB Cargo**, Europe’s largest rail-freight operator. With the growing deployment of GNSS-enabled dataloggers across freight wagons, DB Cargo collects massive volumes of raw sensor data, including positional traces, shock events, and dynamic train compositions.
+
+Focusing on **systemic delay analysis, predictive modeling, and actionable insights**, the project applies data mining and machine learning to extract patterns from this complex, unstructured data. The resulting models support **proactive dispatch planning**, **fleet health monitoring**, and **cost-efficient scheduling**—key elements for optimizing large-scale railway operations.
+
+
 
 **Main Contributions:**
 - Analyzed complex railway network datasets to uncover delay patterns.
@@ -30,12 +40,7 @@ This repository contains code and tools for the Deutsche Bahn Data Mining Challe
     cd DB-DataMining-Challenge
     ```
 
-2. **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Explore the code:**
+2. **Explore the code:**
     - Run scripts in each folder for modular tasks.
 
 ---
